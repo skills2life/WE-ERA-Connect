@@ -1,0 +1,6 @@
+{
+  "name": "WE-ERA Connect",
+  "description": "An Era of Women in Education - A legacy event bringing 2500 Women educators under one roof in Dubai, January 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
